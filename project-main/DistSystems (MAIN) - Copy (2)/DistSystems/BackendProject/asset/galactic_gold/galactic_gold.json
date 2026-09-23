@@ -1,0 +1,13 @@
+{
+    "id": 8,
+    "GameName": "Galactic Gold",
+    "ProviderName": "Play'n GO",
+    "Stars": 4,
+    "NoOfVotes": 27,
+    "GameLogo": "/galactic_gold.png",
+    "MinBet": 1.0,
+    "MaxBet": 200,
+    "RiskLevel": "low",
+    "Theme": "gems",
+    "HashKey": "secret_galactic_000"
+}

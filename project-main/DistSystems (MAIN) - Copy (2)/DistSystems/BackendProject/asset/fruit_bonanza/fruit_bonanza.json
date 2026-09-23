@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "GameName": "Fruit Bonanza",
+    "ProviderName": "NetEnt",
+    "Stars": 4,
+    "NoOfVotes": 15,
+    "GameLogo": "/fruit_bonanza.png",
+    "MinBet": 0.1,
+    "MaxBet": 20,
+    "RiskLevel": "low",
+    "Theme": "fruit",
+    "HashKey": "secret_fruit_123"
+}

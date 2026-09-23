@@ -1,0 +1,13 @@
+{
+    "id": 2,
+    "GameName": "Mega Gem Spins",
+    "ProviderName": "Pragmatic Play",
+    "Stars": 4,
+    "NoOfVotes": 23,
+    "GameLogo": "/mega_gem_spins.png",
+    "MinBet": 1.0,
+    "MaxBet": 50,
+    "RiskLevel": "medium",
+    "Theme": "gems",
+    "HashKey": "secret_gems_002"
+}

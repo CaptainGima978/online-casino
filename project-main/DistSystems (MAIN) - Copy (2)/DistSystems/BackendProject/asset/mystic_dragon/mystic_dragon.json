@@ -1,0 +1,13 @@
+{
+    "id": 4,
+    "GameName": "Mystic Dragon",
+    "ProviderName": "NetEnt",
+    "Stars": 4,
+    "NoOfVotes": 21,
+    "GameLogo": "/mystic_dragon.png",
+    "MinBet": 1.0,
+    "MaxBet": 100,
+    "RiskLevel": "high",
+    "Theme": "nature",
+    "HashKey": "secret_dragon_789"
+}

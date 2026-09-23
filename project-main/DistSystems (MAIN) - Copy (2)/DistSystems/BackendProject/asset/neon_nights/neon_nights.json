@@ -1,0 +1,13 @@
+{
+    "id": 5,
+    "GameName": "Neon Nights",
+    "ProviderName": "Pragmatic Play",
+    "Stars": 5,
+    "NoOfVotes": 8,
+    "GameLogo": "/neon_nights.png",
+    "MinBet": 0.5,
+    "MaxBet": 50,
+    "RiskLevel": "medium",
+    "Theme": "vegas",
+    "HashKey": "secret_neon_123"
+}

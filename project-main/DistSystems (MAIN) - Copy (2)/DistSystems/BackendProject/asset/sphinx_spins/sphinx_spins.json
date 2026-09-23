@@ -1,0 +1,13 @@
+{
+    "id": 3,
+    "GameName": "Sphinx Spins",
+    "ProviderName": "Play'n GO",
+    "Stars": 3,
+    "NoOfVotes": 12,
+    "GameLogo": "/sphinx_spins.png",
+    "MinBet": 5.0,
+    "MaxBet": 500,
+    "RiskLevel": "high",
+    "Theme": "nature",
+    "HashKey": "secret_sphinx_xyz"
+}

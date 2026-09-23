@@ -1,0 +1,13 @@
+{
+    "id": 7,
+    "GameName": "Jungle Quest",
+    "ProviderName": "Pragmatic Play",
+    "Stars": 5,
+    "NoOfVotes": 32,
+    "GameLogo": "/jungle_quest.png",
+    "MinBet": 0.5,
+    "MaxBet": 100,
+    "RiskLevel": "medium",
+    "Theme": "nature",
+    "HashKey": "secret_jungle_999"
+}
